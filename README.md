@@ -1,7 +1,8 @@
 Hi! My Name is Sasha Digiorgio.
 
 Front end developer.
-Future IT Engineer.
+Chasing a dream of becoming IT Engineer.
+Move recently to Estonia.
 24 years old,
 
 let skills = [
